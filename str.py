@@ -10,3 +10,8 @@ name="varnika"
 print(name)
 print(type(name))
 
+
+name="suchi"
+print(name)
+print(type(name))
+
