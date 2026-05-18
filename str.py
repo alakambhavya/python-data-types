@@ -15,3 +15,9 @@ name="suchi"
 print(name)
 print(type(name))
 
+name="bhanu"
+print(name)
+print(type(name))
+
+
+
